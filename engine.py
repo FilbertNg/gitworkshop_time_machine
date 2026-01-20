@@ -1,2 +1,2 @@
 def calculate_warp_speed(year):
-    return year * 2
+    return year / 0 
